@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="stydenti/stydenti.vcxproj" Id="ed18aeea-1f73-4740-acd2-6c58c6f7960a" />
+</Solution>
